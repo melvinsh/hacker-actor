@@ -1,2 +1,2 @@
-require './clever-actor'
+require './hacker-actor'
 run Sinatra::Application
