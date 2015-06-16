@@ -1,7 +1,7 @@
 @import url('lato.css');
 
 body {
-	background: #f5f5f5;
+	background: #222222;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
 }
@@ -17,7 +17,7 @@ a {
 }
 
 h1 {
-	color: #2A2A2A;
+	color: #FFFFFF;
 	padding: 4em 2em;
 	min-height: 6em;
 }
