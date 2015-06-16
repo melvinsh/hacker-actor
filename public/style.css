@@ -1,0 +1,37 @@
+@import url('lato.css');
+
+body {
+	background: #f5f5f5;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+ 
+.container {
+	margin: 0 auto;
+	max-width: 960px;
+}
+ 
+a { 
+	color: #1161A5;
+	text-decoration: none; 
+}
+
+h1 {
+	color: #2A2A2A;
+	padding: 4em 2em;
+	min-height: 6em;
+}
+ 
+button {
+	background-color: #3b83c0;
+	background-image: none;
+	border-radius: .2857rem;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 1em;
+	margin: 0 .25em 0 0;
+	outline: none;
+	padding: .75em 1.5em;
+	text-shadow: none;
+}
